@@ -36,6 +36,8 @@ If you have got questions about the course, please contact [Sebastian Stober](ma
 
 ### Administrative Terms & Conditions (a.k.a. the "fine print")
 
+Link to LSF(https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=228345&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=19553) -- Course Password: LGMWS25
+
 #### Prerequisites for Attending
 
 This is a very advanced course intended for students who have successfully taken the lecture "Introduction to Deep Learning" which is regularly taught alternatingly in the summer term, or "Deep Learning für Ingenieure" in the winter term. 
