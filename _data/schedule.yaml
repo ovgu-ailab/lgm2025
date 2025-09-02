@@ -1,0 +1,15 @@
+lectures:
+  - date: 2025-10-16
+    type: 
+    content:
+    - title: Introduction
+      xslides: lectures/00-Introduction.pdf
+
+  - date: 2025-10-17
+    type:
+    content:
+      - title: Exercise 01
+        slides:
+    xassignment:
+      - label: "Assignment 0: Why Generative Models"
+        link: assignment0.html
