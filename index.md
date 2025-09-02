@@ -6,7 +6,7 @@ title: Index
 # Learning Generative Models
 ---------------------------------
 
-Winter Semester 2025
+Winter Semester 2025  
 [Prof. Dr. Sebastian Stober](http://www.ai.ovgu.de/Staff/Stober.html)  
 [Jens Johannsmeier, M.Sc.](http://www.ai.ovgu.de/Staff/Johannsmeier.html)  
 Lecture: Thu 09:00-11:00; G29-307  
