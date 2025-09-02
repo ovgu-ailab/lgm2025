@@ -36,7 +36,7 @@ If you have got questions about the course, please contact [Sebastian Stober](ma
 
 ### Administrative Terms & Conditions (a.k.a. the "fine print")
 
-Link to LSF(https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=228345&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=19553) -- Course Password: LGMWS25
+[Link to LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=228345&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=19553) -- Course Password: LGMWS25
 
 #### Prerequisites for Attending
 
