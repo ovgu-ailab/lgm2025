@@ -10,6 +10,6 @@ lectures:
     content:
       - title: Exercise 01
         slides:
-    xassignment:
+    assignment:
       - label: "Assignment 0: Why Generative Models"
         link: assignment0.html
