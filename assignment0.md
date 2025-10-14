@@ -63,7 +63,9 @@ Upload your file(s) before the deadline.
 Like in the IDL class, you have to submit _all_ assignments (excluding the usual things like medical reasons, emergencies etc).**
   
 - Assignments can be worked on in groups (up to 3-4 people).
-All members must be able to present the solution if asked to.
+All members must be able to present the solution if asked to do so.
+Coordinate with your group members to join the same group on E-Learning.
+Please do not join other people's groups without asking!
 
 - The deadline is generally on Thursday evening (6pm).
 
