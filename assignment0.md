@@ -66,6 +66,7 @@ Like in the IDL class, you have to submit _all_ assignments (excluding the usual
 All members must be able to present the solution if asked to do so.
 Coordinate with your group members to join the same group on E-Learning.
 Please do not join other people's groups without asking!
+Note: Contrary to the IDL class, you don't have to join a group by yourself if you want to work alone.
 
 - The deadline is generally on Thursday evening (6pm).
 
