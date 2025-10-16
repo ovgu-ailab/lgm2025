@@ -13,3 +13,12 @@ lectures:
     assignment:
       - label: "Assignment 0: Why Generative Models"
         link: assignment0.html
+
+  - date: 2025-10-24
+    type:
+    content:
+      - title: Exercise 02
+        slides:
+    assignment:
+      - label: "Assignment 1: Probability Review"
+        link: assignment1.html
