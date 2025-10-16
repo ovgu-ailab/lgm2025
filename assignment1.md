@@ -58,7 +58,7 @@ The second test has the following properties:
    Given this information, what is the probability that you are indeed sick?
    
 
-## OPTIONAL: A More Complex Coin Toss
+## A More Complex Coin Toss
 
 The purpose of this part is for you to walk through a basic probabilistic modeling task yourself.
 
