@@ -27,7 +27,7 @@ Generative models can be used to tackle such problems. They learn to represent t
 
 ### Course Content
 
-The course will first focus on understanding and applying shallow and deep energy-based models as a particular type of generative models. Furthermore, the course will cover more recent generative models, like Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Autoregressive Models, Diffusion Models, and more. For implementation, we will use Python and TensorFlow.
+The course will first focus on understanding and applying shallow and deep energy-based models as a particular type of generative models. Furthermore, the course will cover more recent generative models, like Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Autoregressive Models, Diffusion Models, and more. For implementation, we will use Python and Pytorch.
 
 This course requires active participation as it follows a "flipped classroom" design. You will prepare for contents before the class using selected text book chapters or recent publications. The in-class time will be used for discussions and for strengthening the understanding.
 
