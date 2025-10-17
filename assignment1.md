@@ -40,6 +40,10 @@ What is the probability that you have the illness?
 This requires a basic grasp of marginal and conditional probabilities as well as Bayes' theorem. 
 These are fundamental concepts without which you will be lost in this class! 
 [The corresponding wiki article](https://en.wikipedia.org/wiki/Bayes%27_theorem) should be sufficient.
+
+For the simulation, note that you can generate uniform random numbers in the range [0, 1] via functions such as
+`np.random.rand`, and such random numbers will be smaller than another fixed number `p` with probability `p`.
+For example, the chance of the uniform random number being smaller than `p=0.9` is 90%.
    
 Next (mathematical solution is sufficient, no need for more simulation):
 1. **(Submission)** Conversely, assume the test result is negative. 
@@ -61,6 +65,7 @@ The second test has the following properties:
 ## A More Complex Coin Toss
 
 The purpose of this part is for you to walk through a basic probabilistic modeling task yourself.
+This can be considered somewhat more advanced, so if you struggle with this, focus on the first part above.
 
 In the exercise, we looked at how one can model a coin toss using a Bernoulli distribution, and using this model and
 given some data, decide whether a coin is fair or not.
@@ -92,3 +97,6 @@ Given a parameter `p`, this gives the probability of seeing a "success" (heads) 
 
 Either way, this should get you the `p` that best explains the data according to the maximum likelihood principle.
 Is this close to 0.5?
+
+You might want to review the derivation for the Bernoulli case in 
+[our blog post on this topic](https://ovgu-ailab.github.io/blog/methods/2025/09/08/probabilistic-models.html).
