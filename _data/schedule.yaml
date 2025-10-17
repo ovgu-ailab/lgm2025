@@ -14,6 +14,23 @@ lectures:
       - label: "Assignment 0: Why Generative Models"
         link: assignment0.html
 
+  - date: 2025-10-23
+    type:
+    content:
+      - title: Graphical Models & Monte Carlo Methods
+        slides:
+    reading:
+      - title: "optional: Bishop Book - Chapter 2: Probabilities"
+        url: https://www.bishopbook.com/
+      - title: "Bishop Book - Chapter 11: Structured Distributions"
+        url: https://www.bishopbook.com/
+      - title: "Bishop Book - Chapter 14: Sampling"
+        url: https://www.bishopbook.com/
+    assignment:
+      - label: reading
+        link: reading1.html
+
+
   - date: 2025-10-24
     type:
     content:
