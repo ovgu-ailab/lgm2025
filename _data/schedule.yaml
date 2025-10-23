@@ -39,3 +39,19 @@ lectures:
     assignment:
       - label: "Assignment 1: Probability Review"
         link: assignment1.html
+
+  - date: 2025-10-30
+    type:
+    content:
+      - title: Energy-based Models & RBMs
+        slides:
+    reading:
+      - title: "Bishop Book - Chapter 14: Sampling"
+        url: https://www.bishopbook.com/
+      - title: "Bishop Book - Chapter 15: Discrete Latent Variables"
+        url: https://www.bishopbook.com/
+      - title: "Bishop Book - Chapter 16: Continuous Latent Variables"
+        url: https://www.bishopbook.com/
+    assignment:
+      - label: reading
+        link: reading2.html
