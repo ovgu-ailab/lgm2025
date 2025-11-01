@@ -56,6 +56,18 @@ lectures:
       - label: reading
         link: reading2.html
 
+  - date: 2025-11-06
+    type:
+    content:
+      - title: Variational Autoencoders
+        slides:
+    reading:
+      - title: "Bishop Book - Chapter 19: Autoencoders"
+        url: https://www.bishopbook.com/
+    assignment:
+      - label: reading
+        link: reading3.html
+
   - date: 2025-11-07
     type:
     content:

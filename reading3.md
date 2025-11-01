@@ -11,6 +11,8 @@ id: reading3
 
 Please read Section 19.2 of the [Bishop Book](https://www.bishopbook.com/).
 
+More background on the Evidence Lower Bound can be found in sections 16.3 and 15.4.
+
 ## Further Alternative Reading
 
 If you also want to refresh your knowledge on basic autoencoders, you can additionally read Section 19.1 of the [Bishop Book](https://www.bishopbook.com/).
