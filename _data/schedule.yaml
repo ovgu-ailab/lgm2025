@@ -77,11 +77,11 @@ lectures:
       - label: "Assignment 2: MCMC & Gibbs Sampling"
         link: assignment2.html
 
-  - date: 2025-11-04
+  - date: 2025-11-14
     type:
     content:
       - title: Exercise 04
         slides:
     assignment:
       - label: "Assignment 3: Variational Autoencoders"
-        link: assignment2.html
+        link: assignment3.html
