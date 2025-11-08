@@ -77,6 +77,18 @@ lectures:
       - label: "Assignment 2: MCMC & Gibbs Sampling"
         link: assignment2.html
 
+  - date: 2025-11-13
+    type:
+    content:
+      - title: Generative Adversarial Networks
+        slides:
+    reading:
+      - title: "Bishop Book - Chapter 17: Generative Adversarial Networks"
+        url: https://www.bishopbook.com/
+    assignment:
+      - label: reading
+        link: reading4.html
+
   - date: 2025-11-14
     type:
     content:
