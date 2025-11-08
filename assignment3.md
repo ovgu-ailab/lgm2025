@@ -40,6 +40,14 @@ In general, you could ignore this help and do everything yourself.
 You will learn much more this way, but it will also be _much_ more work.
 As such, make sure you have gotten access to [the course repository](https://code.ovgu.de/ai-lab/teaching/lgm/lgm2025) as well as sufficient compute resources (we are offering GPU access as detailed on Mattermost).
 
+**For the submission** you should generally submit your code (e.g. implementation of the missing parts from the repository) plus the usual notebooks showcasing your experiments.
+
+In principle you should be able to create a new branch in the repository for yourself.
+If you do that, you could just note that in your submission and link to that code.
+Then you don't have to upload it on Moodle.
+But **please do not** commit large notebooks with outputs to the repository!
+Notebooks should still be submitted via E-Learning!
+
 
 ## Implementing VAEs
 
