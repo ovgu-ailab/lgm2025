@@ -7,7 +7,7 @@ id: ass3
 
 # Assignment 3: ELBOs Out
 **Discussion: November 14th**  
-**Optional Deadline: November 13th, 18:00**
+**Deadline: November 13th, 18:00**
 
 This week kicks off our "marathon" of implementing various kinds of generative models.
 We start with Variational Autoencoders (VAEs), a classic model that has lost significance somewhat, but is still important in various contexts, and also forms the basis of other models we will see later.
