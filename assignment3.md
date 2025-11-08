@@ -90,6 +90,9 @@ See the AE code for Assignment 0 on how to choose a reconstruction loss correspo
 You can go with `"gaussian_fixed_sigma"` as a reasonable starting point.
 You will also have to implement the actual neural network architectures; again the basic autoencoder code can serve as inspiration here.
 
+Finally, note that you also have to use some kind of reconstruction loss corresponding to the decoder likelihood.
+If you are confused about this topic, [we wrote a blog post](https://ovgu-ailab.github.io/blog/methods/2025/10/05/vae-reconstruction.html) that might help.
+
 
 ## Going Further
 
