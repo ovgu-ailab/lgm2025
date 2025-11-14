@@ -98,6 +98,17 @@ lectures:
       - label: "Assignment 3: Variational Autoencoders"
         link: assignment3.html
 
+  - date: 2025-11-20
+    type:
+    content:
+    - title: Evaluating Generative Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading5.html
+
   - date: 2025-11-21
     type:
     content:
