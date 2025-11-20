@@ -117,3 +117,15 @@ lectures:
     assignment:
       - label: "Assignment 4: GANs"
         link: assignment4.html
+
+  - date: 2025-11-27
+    type:
+    content:
+    - title: Advanced VAEs and GANs
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading6.html
+        
