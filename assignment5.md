@@ -37,7 +37,7 @@ It's important to use one specific architecture and set of weights to have compa
 Note that, for this reason, your results will not be comparable to anything you might find in the literature.
 But within our little course, we can compare numbers. :)
 
-The starter notebook discussed in the next section contains usage examples for both metrics.
+The starter notebook discussed in the next section contains usage examples for both metrics, as does the "solution" notebook for the GANs from last week.
 
 
 ## Conditional Generation
@@ -75,7 +75,7 @@ Your task this week is to revisit the models we have gotten to know thus far, de
 This means:
 
 1. Define one or more interesting questions you want to focus on. Some examples:
-    - Investigating the effect of $\beta$ (the weight on the KL-loss) in VAEs.
+    - Investigating the effect of `beta` (the weight on the KL-loss) in VAEs.
     - Comparing different likelihoods (corresponding to reconstruction losses) in VAEs.
     - Comparing GANs vs VAEs.
     - Evaluating whether GAN "tricks" like scaling data to [-1, 1] vs [0, 1] actually make a measurable difference.
