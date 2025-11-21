@@ -22,7 +22,7 @@ your task will follow towards the end.
 
 ## Evaluating Generative Models
 
-We provide two evaluation metrics in `lgm/evaluation.py`,
+We provide two evaluation metrics in `lgm/evaluation`,
 namely the [FID](https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance) and 
 [Inception Score](https://en.wikipedia.org/wiki/Inception_score) (IS).
 Out of these, the latter is considered somewhat outdated, and FID should be preferred.
@@ -65,7 +65,7 @@ Furthermore, `lgm.layers` has been updated with _adaptive normalization_ (discus
 
 There is also a new starter notebook `06_vae_conditional.ipynb` that showcases how to train such a model, as well as using the evaluation methods.
 
-**NOTE:** The old VAE notebook (`04_vae`) unfortunately will no longer work with the updated code.
+**NOTE:** The old VAE code has been moved to `lgm.vae.legacy`.
 However, you can also train unconditional models as before with the new code.
 
 
