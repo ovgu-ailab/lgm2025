@@ -129,3 +129,11 @@ lectures:
         - label: reading
           link: reading6.html
         
+  - date: 2025-11-28
+    type:
+    content:
+      - title: Exercise 06
+        slides:
+    assignment:
+      - label: "Assignment 5: Evaluation & Conditional Models"
+        link: assignment5.html
