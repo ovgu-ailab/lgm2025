@@ -91,3 +91,7 @@ You should discuss the following points:
 - What was your expected result before starting?
 - Did your experiments confirm your expectations or not? Did you make other observations besides your original hypothesis?
 - Do the "objective" measures like FID match up with your subjective impression of sample quality?
+
+Final note: There was unfortunately a bug in the `layers` code that caused the first normalization in each block to be unused.
+This has now been fixed, but this means that your old models will not work correctly anymore.
+_Do not_ use checkpoints from previous assignments for this assignment!
