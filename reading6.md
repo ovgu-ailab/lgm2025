@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Reading 7
-id: reading7
+title: Reading 6
+id: reading6
 ---
 
 
-# Reading Assignment 7: Advanced VAEs and GANs
+# Reading Assignment 6: Advanced VAEs and GANs
 
 This reading is intended to cover advanced architectures that we did not have time
 for in the respective sessions. You are not expected to read all these papers in detail,
