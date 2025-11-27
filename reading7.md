@@ -14,10 +14,6 @@ Methods](https://probml.github.io/pml-book/book2.html) gives a good overview of
 autoregressive models. Since these models are conceptually very straightforward,
 there is not too much deep theory here.
 
-Next, [The unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-by Andrej Karpathy covers the basics of language modeling. Although outdated,
-state-of-the-art approaches like GPT work in essentially the same way.
-
 (The [Bishop Book](https://www.bishopbook.com/) only briefly covers the topic in Section 12.2.4.)
 
 ### Optional Reading: Classic Success Stories
@@ -33,19 +29,24 @@ the RNNs. There is also a [follow-up](https://arxiv.org/pdf/1606.05328.pdf), and
 was a revolutionary model that generated audio in an autoregressive manner. It's
 basically PixelCNN in 1D.
 - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf) encodes data in a lower-dimensional
-space and then uses an autoregressive model on that space. There i https://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level
-approach to generate very high-quality images.
+space and then uses an autoregressive model on that space. There i https://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level approach to generate very high-quality images.
 
 
 ## Large Language Models
 
 There are _many_ language models being developed by large companies and research
 groups. Most of these function similarly. We will look at a select few only.
-As before, this is a _lot_ to read, so papers are mainly included as a reference.
+As before, this is a _lot_ to read, so the optional papers below are mainly included as a reference.
 
-There is a HUGE overview paper with [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223).
+Section 12.3.5 of the [Bishop Book](https://www.bishopbook.com/) provides a high-level overview.
 
-### Model Examples
+For more details, refer to this HUGE overview paper with [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223).
+
+Finally, a very important piece of research, providing justification for this
+research agenda, is [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf).
+
+
+### Optional: Model Examples
 
 GPT series of papers:
 - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -57,9 +58,6 @@ GPT series of papers:
 
 As these are all developed by OpenAI, you could also check [PaLM](https://arxiv.org/pdf/2204.02311.pdf)
 by Google.
-
-Finally, a very important piece of research, providing justification for this
-research agenda, is [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf).
 
 
 ### Reinforcement Learning with Human Feedback

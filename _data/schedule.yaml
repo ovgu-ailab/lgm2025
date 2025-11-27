@@ -136,4 +136,15 @@ lectures:
         slides:
     assignment:
       - label: "Assignment 5: Evaluation & Conditional Models"
-        link: assignment5.html
+        link: assignment5.html        
+
+  - date: 2025-12-04
+    type:
+    content:
+    - title: "Autoregressive Models & LLMs"
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading7.html
