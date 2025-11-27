@@ -18,7 +18,7 @@ Next, [The unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05
 by Andrej Karpathy covers the basics of language modeling. Although outdated,
 state-of-the-art approaches like GPT work in essentially the same way.
 
-(The [Bishop Book](https://www.bishopbook.com/) only briefly covers the topic in )
+(The [Bishop Book](https://www.bishopbook.com/) only briefly covers the topic in Section 12.2.4.)
 
 ### Optional Reading: Classic Success Stories
 
