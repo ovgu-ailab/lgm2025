@@ -148,3 +148,12 @@ lectures:
     assignment:
         - label: reading
           link: reading7.html
+
+  - date: 2025-12-05
+    type:
+    content:
+      - title: Exercise 07
+        slides:
+    assignment:
+      - label: "Assignment 6: VQVAEs"
+        link: assignment6.html 
