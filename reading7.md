@@ -29,7 +29,8 @@ the RNNs. There is also a [follow-up](https://arxiv.org/pdf/1606.05328.pdf), and
 was a revolutionary model that generated audio in an autoregressive manner. It's
 basically PixelCNN in 1D.
 - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf) encodes data in a lower-dimensional
-space and then uses an autoregressive model on that space. There is also h[VQ-VAE2](https://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level approach to generate very high-quality images.
+space and then uses an autoregressive model on that space. There is also 
+[VQ-VAE2](https://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level approach to generate very high-quality images.
 
 
 ## Large Language Models
