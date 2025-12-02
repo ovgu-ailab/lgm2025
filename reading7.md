@@ -29,7 +29,7 @@ the RNNs. There is also a [follow-up](https://arxiv.org/pdf/1606.05328.pdf), and
 was a revolutionary model that generated audio in an autoregressive manner. It's
 basically PixelCNN in 1D.
 - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf) encodes data in a lower-dimensional
-space and then uses an autoregressive model on that space. There i https://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level approach to generate very high-quality images.
+space and then uses an autoregressive model on that space. There is also h[VQ-VAE2](ttps://arxiv.org/pdf/1906.00446.pdf) which uses a multi-level approach to generate very high-quality images.
 
 
 ## Large Language Models
@@ -49,8 +49,8 @@ research agenda, is [Scaling Laws for Neural Language Models](https://arxiv.org/
 ### Optional: Model Examples
 
 GPT series of papers:
-- [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [GPT 2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [GPT 2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [GPT 3](https://arxiv.org/pdf/2005.14165.pdf)
 - GPT 4
   - [Paper](https://arxiv.org/pdf/2303.12712.pdf)
