@@ -7,7 +7,7 @@ id: ass7
 
 # Assignment 7: Go Big or Go Home
 **Discussion: December 12th**  
-**Deadline: December 11th, 18:00**
+**Deadline: December 11th, 20:00**
 
 This week, we will combine our VQVAE with an _autoregressive_ model that can generate latent codes, which can then easily be decoded back to data space.
 This is a massive gain over naive autoregressive models trained directly in data space, as these will be _very_ slow for high-dimensional data.
