@@ -157,3 +157,12 @@ lectures:
     assignment:
       - label: "Assignment 6: VQVAEs"
         link: assignment6.html 
+
+  - date: 2025-12-12
+    type:
+    content:
+      - title: Exercise 08
+        slides:
+    assignment:
+      - label: "Assignment 7: (Latent) Autoregressive Models"
+        link: assignment7.html 
