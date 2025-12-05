@@ -158,6 +158,17 @@ lectures:
       - label: "Assignment 6: VQVAEs"
         link: assignment6.html 
 
+  - date: 2025-12-11
+    type:
+    content:
+    - title: "Normalizing Flows"
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading8.html
+
   - date: 2025-12-12
     type:
     content:
