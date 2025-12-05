@@ -69,6 +69,10 @@ Pushing down the training loss will often push the validation loss along with it
 Furthermore, lower training loss, even at the cost of increased validation loss, tends to improve generations _even when evaluated against the validation set_.
 Finally, scaling laws tell us that, given a certain amount of compute (i.e. time), training a _larger model for fewer steps_ tends to be more effective than training a smaller model for more steps.
 
+Finally, classification performance (cross-entropy or accuracy) can be misleading:
+A model may propose a vector very close to the correct one, but this is just was "wrong" as predicting a vector that is very far away.
+A better idea can be gained by measures like top-k accuracy, which count a prediction as correct if the true answer is in the `k` highest outputs.
+
 The overall message here is: Create big models. You most likely _cannot go too big_, as our resource constraints will stop us before this becomes a concern.
 Of course, you should still start with small models for prototyping and making everything work.
 But after that, few model types scale as well with size as autoregressive Transformer models, so this is the best chance to get a good bang for your buck.  
