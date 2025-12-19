@@ -17,7 +17,7 @@ The next couple of assignments will look at different variants of these models a
 This first week serves to set up a good baseline.
 Still, with decent networks and enough training time, these models should outperform anything you have implemented so far.
 
-As usual, there is a notebook plus an unfinished implementation where you have to fill in the remaining steps.
+As usual, there is a notebook plus an unfinished implementation where you have to fill in the remaining steps (`lgm.score`).
 Training is very simple:
 - At each step, sample the noise level `sigma` that we want to train.
     - In theory, we would sum over _all_ `sigma` in our noise schedule, but this is prohibitively slow.
@@ -38,7 +38,7 @@ Details can be found in the notebook.
 ## The Rest
 
 The standard architecture for score-based models is based on [U-Nets](https://arxiv.org/pdf/1505.04597).
-The repository has been updated with functionalities for the encoder-decoder _skip connections_ these networks employ.
+The repository has been updated with functionalities for the _encoder-decoder skip connections_ these networks employ.
 All parts of the implementation should be relatively short and simple, especially compared to last week's Glow model.
 With this, you should be able to build strong generative models on pretty much any of the datasets we offer.
 The notebook also contains some pointers to usages besides "raw" generation, such as inpainting or creating "variations" on existing data points.
@@ -50,7 +50,10 @@ This is really important to get right, as even small deviations can result in co
 - In terms of how many noise levels and generation steps, rather use too many than too few.
 - Put aside plenty of time for various generation tasks and evaluation; the sequential generation process is very slow.
 - Similarly, score-based models seem to require rather long training. Papers usually report a number of training steps in the hundreds of thousands, even for smaller datasets like CIFAR.
+    - Keep in mind, for a dataset with 60,000 samples and batch size 256, there are only slightly above 200 steps per epoch.
+    So you would require close to 500 epochs for just 100,000 steps. You could of course reduce the batch size to cover more steps per epoch.
 - The latter point holds even if the loss seems to plateau relatively early. Just keep going!
 
 All in all, there are a few more implementation details to fill in this time than usual, to make sure you really engage with the concepts.
-After that, just try to achieve a good model for a dataset of your choice and check some of the advanced concepts!
+Understanding these will be important to be able to follow the concepts of the next couple of weeks.
+After getting it to run, just try to achieve a good model for a dataset of your choice and check some of the advanced concepts!
