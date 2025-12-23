@@ -196,7 +196,18 @@ lectures:
         slides:
     assignment:
       - label: "Assignment 8: Flows"
-        link: assignment8.html 
+        link: assignment8.html
+
+  - date: 2026-01-08
+    type:
+    content:
+    - title: "Denoising Diffusion Models"
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading10.html
 
   - date: 2026-01-09
     type:
