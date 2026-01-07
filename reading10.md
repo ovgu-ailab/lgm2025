@@ -5,7 +5,7 @@ id: reading10
 ---
 
 
-# Reading Assignment 9: Denoising Diffusion Models
+# Reading Assignment 10: Denoising Diffusion Models
 
 Literature on diffusion models is mathematically complex and usually quite dense. You have multiple choices to get an overview of how they function, but all of them will be somewhat challenging:
 
