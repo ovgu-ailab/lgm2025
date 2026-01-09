@@ -212,7 +212,7 @@ lectures:
   - date: 2026-01-09
     type:
     content:
-      - title: Exercise 09
+      - title: Exercise 10
         slides:
     assignment:
       - label: "Assignment 9: Score-based Models"
@@ -228,3 +228,12 @@ lectures:
     assignment:
         - label: reading
           link: reading11.html
+
+  - date: 2026-01-16
+    type:
+    content:
+      - title: Exercise 11
+        slides:
+    assignment:
+      - label: "Assignment 10: Guided Diffusion"
+        link: assignment10.html 
