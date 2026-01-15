@@ -237,3 +237,14 @@ lectures:
     assignment:
       - label: "Assignment 10: Guided Diffusion"
         link: assignment10.html 
+
+  - date: 2026-01-22
+    type:
+    content:
+      - title: Text-to-Image Generative Models
+        slides:
+    reading:
+      - title: "Selected resources"
+    assignment:
+      - label: reading
+        link: reading12.html
